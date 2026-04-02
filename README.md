@@ -22,7 +22,7 @@ This project simulates a full year of Apple product sales in Jordan (FY 2024) an
 ## Salespersons
 
 - Ammar
-- Matas
+- Mutaz
 - Hiba
 - Walid
 
